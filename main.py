@@ -87,7 +87,7 @@ try:
                             scale=alt.Scale(domain=list(congestion_color_map.keys()),
                                             range=list(congestion_color_map.values())),
                             legend=alt.Legend(title="Congestion Level")),
-            tooltip=["NodeID", "CongestionLevel", "VehicleCount"]
+            tooltip=["NodeID", "CongestionLevel", "Vehicle Count"]
         ).properties(width=700)
 
         st.altair_chart(bar_chart, use_container_width=True)
