@@ -1,0 +1,4 @@
+NodeID,VehicleCount,AvgSpeed,ParkingStatus,CongestionLevel
+Node_1,49,41,Available,High
+Node_2,15,31,Available,Low
+Node_3,21,80,Full,Medium
