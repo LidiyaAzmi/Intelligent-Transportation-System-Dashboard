@@ -10,7 +10,7 @@ st.title("Traffic Monitoring Dashboard")
 st_autorefresh(interval=2000, key="datarefresh")
 
 # --- Load CSV File ---
-csv_file = "C:/Users/User/PycharmProjects/dashboard wsn/log.csv"  # Adjust to your actual CSV filename
+csv_file = "log.csv"  # Adjust to your actual CSV filename
 
 try:
     # Read CSV file
