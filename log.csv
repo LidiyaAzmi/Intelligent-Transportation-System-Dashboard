@@ -1,4 +1,4 @@
 NodeID,VehicleCount,AvgSpeed,ParkingStatus,CongestionLevel
-ClusterHead 1,7,2.01,Full,Medium
-ClusterHead 2,3,2.45,Available,Low
-ClusterHead 3,5,2.64,Full,Medium
+ClusterHead 1,10,2.85,Available,Medium
+ClusterHead 2,8,2.24,Available,High
+ClusterHead 3,7,2.17,Full,Medium
