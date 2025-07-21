@@ -1,21 +1,4 @@
 NodeID,VehicleCount,AvgSpeed,ParkingStatus,CongestionLevel
-1,0,0.00,Full,Low
-1,0,0.00,Full,Low
-1,0,0.00,Available,Low
-1,0,0.00,Available,Low
-1,0,0.00,Full,Low
-1,0,0.00,Available,Low
-1,0,0.00,Full,Low
-1,0,0.00,Available,Low
-1,0,0.00,Available,Low
-1,0,0.00,Available,Low
-1,0,0.00,Full,Low
-1,0,0.00,Full,Low
-1,0,0.00,Full,Low
-1,0,0.00,Full,Low
-1,0,0.00,Available,Low
-1,0,0.00,Available,Low
-1,0,0.00,Full,Low
-1,0,0.00,Full,Low
-1,0,0.00,Available,Low
-1,0,0.00,Full,Low
+ClusterHead 1,7,2.01,Full,Medium
+ClusterHead 2,3,2.45,Available,Low
+ClusterHead 3,5,2.64,Full,Medium
