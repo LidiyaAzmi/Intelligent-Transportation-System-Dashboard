@@ -6,7 +6,7 @@ import numpy as np
 st.title("Traffic Monitoring Dashboard")
 
 # --- Load CSV File ---
-csv_file = "dummy data.csv"  # Adjust to your actual CSV filename
+csv_file = "log.csv"  # Adjust to your actual CSV filename
 
 try:
     # Read CSV file
